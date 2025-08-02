@@ -3,7 +3,8 @@ name = "cargo-nixpackage"
 version = "0.1.0"
 edition = "2024"
 description = "A small utility to scaffold Rust projects with Nix Flake support."
-
+license-file = "./LICENSE"
+readme = "./README.md"
 
 [build]
 targer = "./target"
